@@ -34,7 +34,7 @@ describe('Search Controller', () => {
             return
         });
 
-        it('should return 401 - Unathourised with an invalida API Key' () => {
+        it('should return 401 - Unathourised with an invalida API Key', () => {
             return
         });
 
